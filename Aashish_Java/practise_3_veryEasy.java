@@ -1,4 +1,4 @@
-public class practise_2_veryEasy {
+public class practise_3_veryEasy {
     public static void main(String[] args) {
         int[] transactionAmounts = {100,200,300,400};
         for (int amt : transactionAmounts) {

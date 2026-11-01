@@ -1,4 +1,4 @@
-public class practise_3_easy {
+public class practise_4_easy {
     public static void main(String[] args) {
         double[] ticketPrice = {100,500,600};
         boolean[] isPeakRush = {false,true,true};
