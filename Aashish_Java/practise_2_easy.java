@@ -1,5 +1,4 @@
-
-public class practise_1_easy {
+public class practise_2_easy {
     public static void main(String[] args) {
             int validPassenger=0;
             int childrens=0;
