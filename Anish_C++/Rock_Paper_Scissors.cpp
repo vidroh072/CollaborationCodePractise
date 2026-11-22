@@ -44,11 +44,9 @@ char getComputerChoice(){
         case 2 : return 'p';
         break;
         case 3: return 's';
-        break ;
+        break;
     }
-    //switch(computerchoice){
-      //  case 1 : if (computerchoice)
-    
+    return 0;
 }
 
 void showChoice(char choice){
